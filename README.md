@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SumukhShankar
-- 👀 I’m interested in game development in js (atleast now (2021 - 2022 ));
+- 👀 I’m interested in game development in c# and unity
 - 🌱 I’m currently learning coding in c# , unity , working in 3D Fps Game
 - 💞️ I’m looking to collaborate on with some indie begginers to make games 
 - 📫 you can reach me on 9006565242 or message me on facebook https://www.facebook.com/profile.php?id=100003289187087 here:
