@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SumukhShankar
 - 👀 I’m interested in game development in c# and unity
 - 🌱 I’m currently learning coding in c# , unity , working in 3D Fps Game
-- 💞️ I’m looking to collaborate on with some indie begginers to make games 
+- 💞️ I’m looking to collaborate on with someone to make games 
 - 📫 you can reach me on 9006565242 or message me on facebook https://www.facebook.com/profile.php?id=100003289187087 here:
       we can also collaborate and make games togther 
        Join me here https://discord.gg/VygeJy4c
